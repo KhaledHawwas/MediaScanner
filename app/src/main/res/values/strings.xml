@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MediaScanner</string>
+    <string name="read_external_storage">Read External Storage</string>
+    <string name="choose_file">Choose File</string>
+</resources>
